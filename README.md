@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Thông tin cá nhân</h1>
-    
-    <p><strong>Họ tên:</strong>Trần Đình Tuấn Kiệt</p>
-    <p><strong>Tuổi:</strong>14</p>
-    <p><strong>Lớp:</strong>S2P31.2506A2</p>
-    <p><strong>Sở Thích:</strong>Coding,chơi game, đọc sách</p>
-    <img src="img/HomeworkHtml.png">
-</body>
-</html>
+Profile
